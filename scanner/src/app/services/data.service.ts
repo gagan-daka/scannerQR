@@ -70,7 +70,7 @@ export class DataService {
 
     const archivo=`${this.file.dataDirectory}registros.csv`;
     let email={
-      to: "sergi.diaz.7e2@itb.cat",
+      to: "gagandeep.dass.7e3@itb.cat",
       attachments:[
         archivo
       ],
